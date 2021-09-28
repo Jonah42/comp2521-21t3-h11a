@@ -25,6 +25,7 @@ struct node* newNode(int value) {
     struct node* n = malloc(sizeof(struct node));
     n->value = value;
     n->next = NULL;
+    return n;
 }
 
 // Create a new List
