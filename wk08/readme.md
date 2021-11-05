@@ -1,0 +1,3 @@
+Slides: https://www.canva.com/design/DAEut5oFGAQ/rnunKH1Lzs3TOlr9trq9HQ/view?utm_content=DAEut5oFGAQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+Graph Visualisation tool I used is here https://graphalgos.surge.sh/
+Reede's slides: https://www.canva.com/design/DAEutbbAs_8/fV1aRvjTtxO5yP3XaBm3DQ/view?utm_content=DAEutbbAs_8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton&fbclid=IwAR27DNoHLKU7D6VUALSj3xTAUlsTGJhRmY0kv9B4KCEJ-dxGF3PvbH5liVg
